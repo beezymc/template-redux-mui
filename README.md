@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React App Template with Redux
+A basic React template with Redux preinstalled and a small counter app developed to ensure it's functional.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
