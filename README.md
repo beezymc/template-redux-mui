@@ -1,5 +1,5 @@
-# React App Template with Redux
-A basic React template with Redux preinstalled and a small counter app developed to ensure it's functional.
+# React App Template with Redux and MUI
+A basic React template with Redux and MUI preinstalled and a small counter app developed to ensure it's functional.
 
 ## Getting Started with Create React App
 
