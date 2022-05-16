@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import App from '../../pages/App.js';
+import App from '../../App.js';
 import decrementCount from '../actions/decrementCount.js';
 import incrementCount from '../actions/incrementCount.js';
 import resetCount from '../actions/resetCount.js';
